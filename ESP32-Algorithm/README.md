@@ -2,7 +2,7 @@
 1. Download [**Arduino IDE**](https://www.arduino.cc/en/software)
 
 2. Run **Arduino IDE**
-3. In the menu bar, go to _File>Preferences>Settings_, then in in **Additional Boards Manager URLs**, paste the following URL:
+3. In the menu bar, go to _File>Preferences>Settings_, then in **Additional Boards Manager URLs**, paste the following URL:
 ```sh
 https://dl.espressif.com/dl/package_esp32_index.json
 ``` 
