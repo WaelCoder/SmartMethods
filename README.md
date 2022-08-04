@@ -7,3 +7,5 @@ Develop a simple Speech to Text website that supports the Arabic Language.
 
 * **Task 1.2:** [Wasdom ESP32 Algorithm](https://github.com/WaelCoder/SmartMethods/tree/main/ESP32-Algorithm)</br>
 Write an algorithm of the process of running ESP32.
+
+* **Task 2:** [Control Robot's Arm with Arduino/ESP32 Using Speech To Text](https://github.com/WaelCoder/SmartMethods/tree/main/ControlRobotArm)</br>
